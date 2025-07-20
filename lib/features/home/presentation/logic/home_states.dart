@@ -35,3 +35,5 @@ class ErrorState extends HomeStates {
 }
 
 class SuccessState extends HomeStates {}
+
+class ChangeSelectedIndexState extends HomeStates {}
